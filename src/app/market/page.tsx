@@ -20,7 +20,7 @@ const products = [
     farmer: 'Green Valley Farms',
     price: 2.5,
     unit: 'kg',
-    imageUrl: 'https://picsum.photos/seed/tomatoes/400/300',
+    imageUrl: 'https://picsum.photos/seed/tomato/400/300',
     imageHint: 'fresh tomatoes',
   },
   {
@@ -29,7 +29,7 @@ const products = [
     farmer: 'Sunshine Gardens',
     price: 1.8,
     unit: 'kg',
-    imageUrl: 'https://picsum.photos/seed/carrots/400/300',
+    imageUrl: 'https://picsum.photos/seed/carrot/400/300',
     imageHint: 'fresh carrots',
   },
   {
@@ -38,7 +38,7 @@ const products = [
     farmer: 'Orchard Fresh',
     price: 3.0,
     unit: 'kg',
-    imageUrl: 'https://picsum.photos/seed/apples/400/300',
+    imageUrl: 'https://picsum.photos/seed/apple/400/300',
     imageHint: 'crisp apples',
   },
   {
@@ -47,7 +47,7 @@ const products = [
     farmer: 'Leafy Greens Co.',
     price: 1.5,
     unit: 'bunch',
-    imageUrl: 'https://picsum.photos/seed/spinach/400/300',
+    imageUrl: 'https://picsum.photos/seed/spinach-leaves/400/300',
     imageHint: 'spinach bunch',
   },
 ];
