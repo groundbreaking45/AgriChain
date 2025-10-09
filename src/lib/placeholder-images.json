@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A vibrant farm landscape with a farmer holding a basket of fresh produce.",
+      "imageUrl": "https://picsum.photos/seed/agrichain-hero/1200/800",
+      "imageHint": "farm landscape"
+    },
+    {
+      "id": "feature-escrow",
+      "description": "Icon representing secure transactions.",
+      "imageUrl": "https://picsum.photos/seed/escrow-icon/200/200",
+      "imageHint": "security shield"
+    },
+    {
+      "id": "feature-credit",
+      "description": "Icon representing AI credit scoring.",
+      "imageUrl": "https://picsum.photos/seed/credit-icon/200/200",
+      "imageHint": "chart graph"
+    },
+    {
+      "id": "feature-rewards",
+      "description": "Icon representing tokenized rewards.",
+      "imageUrl": "https://picsum.photos/seed/rewards-icon/200/200",
+      "imageHint": "coin leaf"
+    },
+    {
+      "id": "feature-mobile",
+      "description": "Icon representing mobile-first design.",
+      "imageUrl": "https://picsum.photos/seed/mobile-icon/200/200",
+      "imageHint": "mobile phone"
+    },
+    {
+      "id": "how-it-works-1",
+      "description": "A farmer listing produce on a smartphone.",
+      "imageUrl": "https://picsum.photos/seed/how-it-works-1/600/400",
+      "imageHint": "farmer phone"
+    },
+    {
+      "id": "how-it-works-2",
+      "description": "A buyer purchasing produce online.",
+      "imageUrl": "https://picsum.photos/seed/how-it-works-2/600/400",
+      "imageHint": "online shopping"
+    },
+    {
+      "id": "how-it-works-3",
+      "description": "A diagram of a smart contract escrow.",
+      "imageUrl": "https://picsum.photos/seed/how-it-works-3/600/400",
+      "imageHint": "flow chart"
+    }
+  ]
 }
