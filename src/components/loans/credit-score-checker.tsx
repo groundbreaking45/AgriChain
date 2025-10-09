@@ -1,6 +1,7 @@
 "use client";
 
-import { useFormState, useFormStatus } from 'react-dom';
+import { useActionState } from 'react';
+import { useFormStatus } from 'react-dom';
 import {
   Card,
   CardContent,
@@ -42,7 +43,7 @@ function SubmitButton() {
 }
 
 export function CreditScoreChecker() {
-  const [state, formAction] = useFormState(checkCreditScoreAction, initialState);
+  const [state, formAction] = useActionState(checkCreditScoreAction, initialState);
   const { t } = useLanguage();
 
   return (
